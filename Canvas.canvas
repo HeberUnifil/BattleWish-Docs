@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"e7c1be5e7395761c","type":"group","x":0,"y":-720,"width":1407,"height":1080,"label":"Mecânicas de Jogo"},
+		{"id":"512a9c8a49fce204","type":"group","x":40,"y":-620,"width":1347,"height":960,"label":"Classes"},
+		{"id":"c17202a3ffbc9de4","type":"group","x":2200,"y":-866,"width":1280,"height":492,"label":"Personagens"},
+		{"id":"c3bb68c732b086d0","type":"group","x":1600,"y":69,"width":892,"height":271,"label":"Especificações Técnicas"},
+		{"id":"c84167b481e21ce8","type":"file","file":"Mecânicas de Jogo/Classes/Assassino.md","x":77,"y":-568,"width":400,"height":400},
+		{"id":"6e01e5f8eacd5b95","type":"file","file":"Mecânicas de Jogo/Classes/Mago.md","x":77,"y":-80,"width":400,"height":400},
+		{"id":"3389ce5465f10cb5","type":"file","file":"Mecânicas de Jogo/Classes/Atirador.md","x":522,"y":-568,"width":400,"height":400},
+		{"id":"71ede2c517bee9ae","type":"file","file":"Mecânicas de Jogo/Classes/Tanque.md","x":522,"y":-80,"width":400,"height":400},
+		{"id":"fad388b90207d205","type":"file","file":"Mecânicas de Jogo/Classes/Encantador.md","x":967,"y":-568,"width":400,"height":400},
+		{"id":"e39d4f2a5de6affe","type":"file","file":"Mecânicas de Jogo/Classes/Lutador.md","x":967,"y":-80,"width":400,"height":400},
+		{"id":"52e95425d5bc646d","type":"file","file":"Especificações técnicas/Motor de Jogo.md","x":1627,"y":140,"width":400,"height":169},
+		{"id":"92e9563b67df61b7","type":"file","file":"Especificações técnicas/Programa de Modelagem.md","x":2072,"y":140,"width":400,"height":169},
+		{"id":"b1384cbc82d90c55","type":"file","file":"Design/Personagens/Blume/Blume.md","x":2220,"y":-794,"width":600,"height":400},
+		{"id":"d1c95c48e624d3bc","type":"file","file":"Design/Personagens/QLETO/Q.L.E.T.O (Quasi-Living Extension of Therapeutic Optimization).md","x":2860,"y":-794,"width":600,"height":400},
+		{"id":"2ec618e572ed19da","type":"text","text":"# Battle Wish","x":1702,"y":-320,"width":251,"height":86}
+	],
+	"edges":[
+		{"id":"b9777e8b6319b64a","fromNode":"2ec618e572ed19da","fromSide":"left","toNode":"512a9c8a49fce204","toSide":"right"},
+		{"id":"3281577a571e9ef1","fromNode":"2ec618e572ed19da","fromSide":"bottom","toNode":"c3bb68c732b086d0","toSide":"top"},
+		{"id":"eec9bc184ccdd9a7","fromNode":"2ec618e572ed19da","fromSide":"top","toNode":"c17202a3ffbc9de4","toSide":"left"}
+	]
+}

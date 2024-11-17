@@ -1,0 +1,1 @@
+Função reconhecida pelo combate a longas distâncias, dedicado a atacar em área, sempre estando atrás da linha de frente. Os magos, por padrão, tem pouca vida, mobilidade mediana e dano mediano.

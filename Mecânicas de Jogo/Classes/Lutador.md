@@ -1,0 +1,1 @@
+Função representada por oferecer alta capacidade de combate, exibindo habilidades que o auxiliam a perdurar por lutas prolongadas e corpo-a-corpo.

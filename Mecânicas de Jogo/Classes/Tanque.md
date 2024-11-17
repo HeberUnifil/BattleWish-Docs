@@ -1,0 +1,1 @@
+Função reconhecida por perdurar alta quantidade de dano, dedicado a representar a linha de frente do time e permitir o avanço do time sob os adversários. Os tanks, por padrão, tem muita vida, baixa mobilidade e baixo dano. Usualmente os tanks tem grande capacidade de engajamento em combate, a fim de compensar sua baixa mobilidade.

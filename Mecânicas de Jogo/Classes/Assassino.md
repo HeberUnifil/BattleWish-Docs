@@ -1,0 +1,2 @@
+Função reconhecida por seu dano explosivo, dedicado a permanecer pouco tempo em combate, abatendo unidades de menor durabilidade e saindo de vista sempre que possível. 
+Os assassinos, por padrão, tem pouca vida, alta mobilidade e alta taxa de dano.

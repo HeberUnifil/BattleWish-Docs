@@ -1,0 +1,1 @@
+Função reconhecida pelo combate a longas distâncias, dedicado a causar alta taxa de dano a alvos unitários, sempre estando atrás da linha de frente. Os atiradores, por padrão, tem pouca vida, mobilidade mediana e alto dano.
